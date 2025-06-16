@@ -73,5 +73,20 @@
   "Another day in Cyber City. Stay sharp.": "Еще один день в Кибергороде. Будь начеку.",
   "Uptown Apartments": "Квартиры в Верхнем городе",
   "Residential area, quieter than downtown.": "Жилой район, тише, чем в центре.",
-  "Quiet up here. Good place to lay low.": "Здесь тихо. Хорошее место, чтобы залечь на дно."
+  "Quiet up here. Good place to lay low.": "Здесь тихо. Хорошее место, чтобы залечь на дно.",
+  "help_command_list": "Доступные команды:",
+  "help_quit": "quit: Выйти из игры.",
+  "help_status": "status: Показать статус игрока.",
+  "help_inventory": "inventory: Показать предметы в инвентаре.",
+  "help_use": "use [название_предмета]: Использовать предмет из инвентаря.",
+  "help_quests": "quests: Показать активные квесты.",
+  "help_completed_quests": "completed_quests: Показать выполненные квесты.",
+  "help_all_quests": "all_quests: Показать все доступные квесты.",
+  "help_hack": "hack [сложность]: Попытаться взломать что-то с заданной сложностью.",
+  "help_accept_quest": "accept_quest [id_квеста]: Принять квест с заданным ID.",
+  "help_quest_details": "quest_details [id_квеста]: Показать детали квеста с заданным ID.",
+  "help_save": "save: Сохранить текущую игру.",
+  "help_load": "load: Загрузить последнее сохранение.",
+  "help_make_choice": "make_choice [id_квеста] [id_выбора] [номер_варианта]: Сделать выбор для квеста.",
+  "help_russia": "russia: Переключить язык на русский."
 }

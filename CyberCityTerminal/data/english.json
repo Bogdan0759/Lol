@@ -11,5 +11,20 @@
   "Another day in Cyber City. Stay sharp.": "Another day in Cyber City. Stay sharp.",
   "Uptown Apartments": "Uptown Apartments",
   "Residential area, quieter than downtown.": "Residential area, quieter than downtown.",
-  "Quiet up here. Good place to lay low.": "Quiet up here. Good place to lay low."
+  "Quiet up here. Good place to lay low.": "Quiet up here. Good place to lay low.",
+  "help_command_list": "Available commands:",
+  "help_quit": "quit: Exit the game.",
+  "help_status": "status: Show player status.",
+  "help_inventory": "inventory: List items in your inventory.",
+  "help_use": "use [item_name]: Use an item from your inventory.",
+  "help_quests": "quests: List your active quests.",
+  "help_completed_quests": "completed_quests: List your completed quests.",
+  "help_all_quests": "all_quests: List all available quests.",
+  "help_hack": "hack [difficulty]: Attempt to hack something with a given difficulty.",
+  "help_accept_quest": "accept_quest [quest_id]: Accept a quest with the given ID.",
+  "help_quest_details": "quest_details [quest_id]: Show details for a quest with the given ID.",
+  "help_save": "save: Save the current game.",
+  "help_load": "load: Load the last saved game.",
+  "help_make_choice": "make_choice [quest_id] [choice_id] [option_number]: Make a choice for a quest.",
+  "help_russia": "russia: Switch language to Russian."
 }

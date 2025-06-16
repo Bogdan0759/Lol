@@ -182,6 +182,23 @@ def process_command(command, player, items_data, quest_manager, attempt_hack_fun
         else:
             # Use lang_manager.get_string for the failure message
             return True, lang_manager.get_string("language_switch_failed")
+    elif action == "help": # New command to display help
+        print_message(lang_manager.get_string("help_command_list"), lang_manager)
+        print_message(lang_manager.get_string("help_quit"), lang_manager)
+        print_message(lang_manager.get_string("help_status"), lang_manager)
+        print_message(lang_manager.get_string("help_inventory"), lang_manager)
+        print_message(lang_manager.get_string("help_use"), lang_manager)
+        print_message(lang_manager.get_string("help_quests"), lang_manager)
+        print_message(lang_manager.get_string("help_completed_quests"), lang_manager)
+        print_message(lang_manager.get_string("help_all_quests"), lang_manager)
+        print_message(lang_manager.get_string("help_hack"), lang_manager)
+        print_message(lang_manager.get_string("help_accept_quest"), lang_manager)
+        print_message(lang_manager.get_string("help_quest_details"), lang_manager)
+        print_message(lang_manager.get_string("help_save"), lang_manager)
+        print_message(lang_manager.get_string("help_load"), lang_manager)
+        print_message(lang_manager.get_string("help_make_choice"), lang_manager)
+        print_message(lang_manager.get_string("help_russia"), lang_manager)
+        return True, None
     # Add other commands here later
     else:
         return True, lang_manager.get_string("unknown_command", command) # Use lang_manager and format
