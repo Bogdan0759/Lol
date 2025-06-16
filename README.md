@@ -1,1 +1,1 @@
-Check readme at game ddirectory
+Check readme at game directory
