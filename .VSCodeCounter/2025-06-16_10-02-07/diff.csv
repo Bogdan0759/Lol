@@ -1,0 +1,13 @@
+"filename", "language", "Markdown", "JSON", "Python", "comment", "blank", "total"
+"c:\Users\M\Desktop\vexapay\CyberCityTerminal\README.md", "Markdown", 43, 0, 0, 0, 11, 54
+"c:\Users\M\Desktop\vexapay\CyberCityTerminal\data\enemies.json", "JSON", 0, 10, 0, 0, 0, 10
+"c:\Users\M\Desktop\vexapay\CyberCityTerminal\data\english.json", "JSON", 0, 1, 0, 0, 1, 2
+"c:\Users\M\Desktop\vexapay\CyberCityTerminal\data\items.json", "JSON", 0, 18, 0, 0, 0, 18
+"c:\Users\M\Desktop\vexapay\CyberCityTerminal\data\russian.json", "JSON", 0, 0, 0, 0, 1, 1
+"c:\Users\M\Desktop\vexapay\CyberCityTerminal\engine\inventory.py", "Python", 0, 0, 4, 2, 1, 7
+"c:\Users\M\Desktop\vexapay\CyberCityTerminal\engine\language.py", "Python", 0, 0, 0, 0, 1, 1
+"c:\Users\M\Desktop\vexapay\CyberCityTerminal\engine\world.py", "Python", 0, 0, 4, 2, 1, 7
+"c:\Users\M\Desktop\vexapay\CyberCityTerminal\main.py", "Python", 0, 0, 4, 3, 1, 8
+"c:\Users\M\Desktop\vexapay\CyberCityTerminal\ui\language.py", "Python", 0, 0, 0, 0, 1, 1
+"c:\Users\M\Desktop\vexapay\CyberCityTerminal\ui\messages.py", "Python", 0, 0, 4, 2, 1, 7
+"Total", "-", 43, 29, 16, 9, 19, 116

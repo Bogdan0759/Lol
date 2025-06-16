@@ -1,0 +1,24 @@
+"filename", "language", "Python", "pip requirements", "Markdown", "JSON", "comment", "blank", "total"
+"c:\Users\M\Desktop\vexapay\CyberCityTerminal\README.md", "Markdown", 0, 0, 0, 0, 0, 1, 1
+"c:\Users\M\Desktop\vexapay\CyberCityTerminal\data\dialog.json", "JSON", 0, 0, 0, 22, 0, 0, 22
+"c:\Users\M\Desktop\vexapay\CyberCityTerminal\data\enemies.json", "JSON", 0, 0, 0, 17, 0, 1, 18
+"c:\Users\M\Desktop\vexapay\CyberCityTerminal\data\factions.json", "JSON", 0, 0, 0, 26, 0, 1, 27
+"c:\Users\M\Desktop\vexapay\CyberCityTerminal\data\items.json", "JSON", 0, 0, 0, 24, 0, 1, 25
+"c:\Users\M\Desktop\vexapay\CyberCityTerminal\data\locations.json", "JSON", 0, 0, 0, 24, 0, 1, 25
+"c:\Users\M\Desktop\vexapay\CyberCityTerminal\data\quests.json", "JSON", 0, 0, 0, 93, 0, 0, 93
+"c:\Users\M\Desktop\vexapay\CyberCityTerminal\engine\__init__.py", "Python", 0, 0, 0, 0, 0, 1, 1
+"c:\Users\M\Desktop\vexapay\CyberCityTerminal\engine\combat.py", "Python", 72, 0, 0, 0, 8, 14, 94
+"c:\Users\M\Desktop\vexapay\CyberCityTerminal\engine\factions.py", "Python", 29, 0, 0, 0, 3, 7, 39
+"c:\Users\M\Desktop\vexapay\CyberCityTerminal\engine\hacking.py", "Python", 9, 0, 0, 0, 5, 4, 18
+"c:\Users\M\Desktop\vexapay\CyberCityTerminal\engine\inventory.py", "Python", 45, 0, 0, 0, 3, 9, 57
+"c:\Users\M\Desktop\vexapay\CyberCityTerminal\engine\player.py", "Python", 34, 0, 0, 0, 2, 7, 43
+"c:\Users\M\Desktop\vexapay\CyberCityTerminal\engine\quests.py", "Python", 132, 0, 0, 0, 26, 30, 188
+"c:\Users\M\Desktop\vexapay\CyberCityTerminal\engine\save_load.py", "Python", 60, 0, 0, 0, 9, 14, 83
+"c:\Users\M\Desktop\vexapay\CyberCityTerminal\engine\world.py", "Python", 23, 0, 0, 0, 3, 5, 31
+"c:\Users\M\Desktop\vexapay\CyberCityTerminal\main.py", "Python", 88, 0, 0, 0, 10, 14, 112
+"c:\Users\M\Desktop\vexapay\CyberCityTerminal\requirements.txt", "pip requirements", 0, 0, 0, 0, 0, 1, 1
+"c:\Users\M\Desktop\vexapay\CyberCityTerminal\ui\__init__.py", "Python", 0, 0, 0, 0, 0, 1, 1
+"c:\Users\M\Desktop\vexapay\CyberCityTerminal\ui\commands.py", "Python", 166, 0, 0, 0, 9, 6, 181
+"c:\Users\M\Desktop\vexapay\CyberCityTerminal\ui\interface.py", "Python", 6, 0, 0, 0, 2, 2, 10
+"c:\Users\M\Desktop\vexapay\CyberCityTerminal\ui\messages.py", "Python", 17, 0, 0, 0, 5, 5, 27
+"Total", "-", 681, 0, 0, 206, 85, 125, 1097

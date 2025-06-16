@@ -1,0 +1,11 @@
+"filename", "language", "Python", "JSON", "comment", "blank", "total"
+"c:\Users\M\Desktop\vexapay\CyberCityTerminal\data\english.json", "JSON", 0, -1, 0, -1, -2
+"c:\Users\M\Desktop\vexapay\CyberCityTerminal\data\russian.json", "JSON", 0, 71, 0, 0, 71
+"c:\Users\M\Desktop\vexapay\CyberCityTerminal\engine\factions.py", "Python", 4, 0, 2, 1, 7
+"c:\Users\M\Desktop\vexapay\CyberCityTerminal\engine\language.py", "Python", 31, 0, 8, 4, 43
+"c:\Users\M\Desktop\vexapay\CyberCityTerminal\engine\quests.py", "Python", 4, 0, 2, 1, 7
+"c:\Users\M\Desktop\vexapay\CyberCityTerminal\main.py", "Python", 3, 0, 0, 1, 4
+"c:\Users\M\Desktop\vexapay\CyberCityTerminal\ui\commands.py", "Python", 5, 0, 2, 0, 7
+"c:\Users\M\Desktop\vexapay\CyberCityTerminal\ui\interface.py", "Python", 7, 0, 5, 0, 12
+"c:\Users\M\Desktop\vexapay\CyberCityTerminal\ui\messages.py", "Python", 7, 0, 2, 0, 9
+"Total", "-", 61, 70, 21, 6, 158

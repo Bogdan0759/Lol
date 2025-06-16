@@ -1,0 +1,41 @@
+Date : 2025-06-16 10:02:07
+Directory : c:\Users\M\Desktop\vexapay\CyberCityTerminal
+Total : 11 files,  88 codes, 9 comments, 19 blanks, all 116 lines
+
+Languages
++----------+------------+------------+------------+------------+------------+
+| language | files      | code       | comment    | blank      | total      |
++----------+------------+------------+------------+------------+------------+
+| Markdown |          1 |         43 |          0 |         11 |         54 |
+| JSON     |          4 |         29 |          0 |          2 |         31 |
+| Python   |          6 |         16 |          9 |          6 |         31 |
++----------+------------+------------+------------+------------+------------+
+
+Directories
++------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| path                                                             | files      | code       | comment    | blank      | total      |
++------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| .                                                                |         11 |         88 |          9 |         19 |        116 |
+| . (Files)                                                        |          2 |         47 |          3 |         12 |         62 |
+| data                                                             |          4 |         29 |          0 |          2 |         31 |
+| engine                                                           |          3 |          8 |          4 |          3 |         15 |
+| ui                                                               |          2 |          4 |          2 |          2 |          8 |
++------------------------------------------------------------------+------------+------------+------------+------------+------------+
+
+Files
++------------------------------------------------------------------+----------+------------+------------+------------+------------+
+| filename                                                         | language | code       | comment    | blank      | total      |
++------------------------------------------------------------------+----------+------------+------------+------------+------------+
+| c:\Users\M\Desktop\vexapay\CyberCityTerminal\README.md           | Markdown |         43 |          0 |         11 |         54 |
+| c:\Users\M\Desktop\vexapay\CyberCityTerminal\data\enemies.json   | JSON     |         10 |          0 |          0 |         10 |
+| c:\Users\M\Desktop\vexapay\CyberCityTerminal\data\english.json   | JSON     |          1 |          0 |          1 |          2 |
+| c:\Users\M\Desktop\vexapay\CyberCityTerminal\data\items.json     | JSON     |         18 |          0 |          0 |         18 |
+| c:\Users\M\Desktop\vexapay\CyberCityTerminal\data\russian.json   | JSON     |          0 |          0 |          1 |          1 |
+| c:\Users\M\Desktop\vexapay\CyberCityTerminal\engine\inventory.py | Python   |          4 |          2 |          1 |          7 |
+| c:\Users\M\Desktop\vexapay\CyberCityTerminal\engine\language.py  | Python   |          0 |          0 |          1 |          1 |
+| c:\Users\M\Desktop\vexapay\CyberCityTerminal\engine\world.py     | Python   |          4 |          2 |          1 |          7 |
+| c:\Users\M\Desktop\vexapay\CyberCityTerminal\main.py             | Python   |          4 |          3 |          1 |          8 |
+| c:\Users\M\Desktop\vexapay\CyberCityTerminal\ui\language.py      | Python   |          0 |          0 |          1 |          1 |
+| c:\Users\M\Desktop\vexapay\CyberCityTerminal\ui\messages.py      | Python   |          4 |          2 |          1 |          7 |
+| Total                                                            |          |         88 |          9 |         19 |        116 |
++------------------------------------------------------------------+----------+------------+------------+------------+------------+
