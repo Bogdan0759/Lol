@@ -6,6 +6,10 @@ A text-based terminal RPG set in a cyberpunk future.
 
 Navigate the neon-drenched streets of Cyber City, interact with various factions, take on dangerous quests, and hone your skills in hacking and combat.
 
+## Концепция
+
+Перемещайтесь по залитым неоновым светом улицам Кибергорода, взаимодействуйте с различными фракциями, выполняйте опасные квесты и оттачивайте свои навыки взлома и боя.
+
 ## How to Play
 
 1.  Make sure you have Python installed.
@@ -13,6 +17,14 @@ Navigate the neon-drenched streets of Cyber City, interact with various factions
 3.  Install dependencies (if any, based on `requirements.txt`).
 4.  Run the game using `python main.py`.
 5.  Follow the on-screen prompts and type commands to interact with the game world.
+
+## Как играть
+
+1. Убедитесь, что у вас установлен Python.
+2. Перейдите в директорию игры в вашем терминале.
+3. Установите зависимости (если есть, на основе `requirements.txt`).
+4. Запустите игру с помощью `python main.py`.
+5. Следуйте инструкциям на экране и вводите команды для взаимодействия с игровым миром.
 
 ## Commands
 
@@ -30,6 +42,23 @@ Navigate the neon-drenched streets of Cyber City, interact with various factions
 *   **save:** Save your current game progress.
 *   **load:** Load a saved game.
 *   **quit:** Exit the game.
+
+## Команды
+
+*   **Movement:** `north`, `south`, `east`, `west` - Перемещение между локациями.
+*   **status:** Просмотр здоровья, характеристик игрока и репутации фракций.
+*   **inventory:** Список предметов в вашем инвентаре.
+*   **use [название_предмета]:** Использовать предмет из инвентаря (например, `use medkit`).
+*   **quests:** Список ваших активных квестов.
+*   **completed_quests:** Список выполненных вами квестов.
+*   **all_quests:** Список всех доступных квестов.
+*   **quest_details [id_квеста]:** Просмотр деталей конкретного квеста, включая цели и выборы.
+*   **accept_quest [id_квеста]:** Принять доступный квест.
+*   **make_choice [id_квеста] [id_выбора] [номер_варианта]:** Сделать выбор для квеста (например, `make_choice retrieve_data_chip approach_office 1`).
+*   **hack [сложность]:** Попытка взлома с заданной сложностью.
+*   **save:** Сохранить текущий прогресс игры.
+*   **load:** Загрузить сохраненную игру.
+*   **quit:** Выйти из игры.
 
 ## Features Implemented (So Far)
 

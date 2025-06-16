@@ -1,0 +1,14 @@
+{
+    "player": {
+        "name": "Vex",
+        "health": 100,
+        "inventory": [
+            "Medkit"
+        ]
+    },
+    "quests": {
+        "active": [],
+        "completed": []
+    },
+    "current_location_id": "downtown"
+}
