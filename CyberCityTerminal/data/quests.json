@@ -1,0 +1,93 @@
+{
+    "retrieve_data_chip": {
+        "name": "Retrieve Data Chip",
+        "description": "A client wants you to retrieve a data chip from a corpo office.",
+        "objectives": {
+            "collect": {
+                "data_chip": 1
+            }
+        },
+        "reward": {
+            "item": "credits",
+            "amount": 200
+        },
+        "choices": {
+            "approach_office": {
+                "description": "How do you want to approach the corpo office?",
+                "options": [
+                    {
+                        "text": "Sneak in through the ventilation system (Requires Hacking 2)",
+                        "consequences": {
+                            "reputation": {
+                                "Syndicate": 5,
+                                "NeoPolice": -3
+                            },
+                            "next_step": "retrieve_chip_stealth"
+                        },
+                        "skill_check": {
+                            "skill": "hacking",
+                            "level": 2
+                        }
+                    },
+                    {
+                        "text": "Bribe the security guard (Requires Charisma 1)",
+                        "consequences": {
+                            "reputation": {
+                                "Syndicate": -2,
+                                "NeoPolice": 2
+                            },
+                            "next_step": "retrieve_chip_bribe"
+                        },
+                        "skill_check": {
+                            "skill": "charisma",
+                            "level": 1
+                        }
+                    },
+                    {
+                        "text": "Force your way in (Requires Combat 3)",
+                        "consequences": {
+                            "reputation": {
+                                "Syndicate": 3,
+                                "NeoPolice": -5
+                            },
+                            "next_step": "retrieve_chip_force"
+                        },
+                        "skill_check": {
+                            "skill": "combat",
+                            "level": 3
+                        }
+                    }
+                ]
+            }
+        }
+    },
+    "deliver_package": {
+        "name": "Deliver Package",
+        "description": "Deliver a sensitive package to a contact in the industrial district.",
+        "objectives": {
+            "visit": {
+                "industrial_district": 1
+            },
+            "collect": {
+                 "sensitive_package": 1
+            }
+        },
+        "reward": {
+            "item": "credits",
+            "amount": 100
+        }
+    },
+    "disable_security": {
+        "name": "Disable Security",
+        "description": "Hack into a corporate network and disable their security systems.",
+        "objectives": {
+            "hack_success": {
+                "difficulty": 5
+            }
+        },
+        "reward": {
+            "item": "credits",
+            "amount": 120
+        }
+    }
+}

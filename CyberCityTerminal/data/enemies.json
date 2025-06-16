@@ -1,0 +1,27 @@
+{
+    "robot_guard": {
+        "name": "Robot Guard",
+        "health": 50,
+        "damage": 15
+    },
+    "cyber_punk": {
+        "name": "Cyber Punk",
+        "health": 30,
+        "damage": 10
+    },
+    "security_bot": {
+        "name": "Security Bot",
+        "health": 70,
+        "damage": 20
+    },
+    "street_samurai": {
+        "name": "Street Samurai",
+        "health": 60,
+        "damage": 25
+    },
+    "corpo_enforcer": {
+        "name": "Corpo Enforcer",
+        "health": 80,
+        "damage": 30
+    }
+}

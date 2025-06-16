@@ -1,0 +1,24 @@
+{
+    "downtown": {
+        "name": "Downtown Cyber City",
+        "description": "A bustling area with neon lights and towering skyscrapers.",
+        "exits": {
+            "north": "uptown",
+            "south": "industrial_district"
+        }
+    },
+    "uptown": {
+        "name": "Uptown Apartments",
+        "description": "Residential area, quieter than downtown.",
+        "exits": {
+            "south": "downtown"
+        }
+    },
+    "industrial_district": {
+        "name": "Industrial District",
+        "description": "Gritty and dangerous, smoke fills the air.",
+        "exits": {
+            "north": "downtown"
+        }
+    }
+}

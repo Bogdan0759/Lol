@@ -1,0 +1,26 @@
+{
+    "Syndicate": {
+        "name": "The Syndicate",
+        "description": "A powerful criminal organization controlling the city's black markets.",
+        "attitude": {
+            "NeoPolice": -50,
+            "CyberNuns": -20
+        }
+    },
+    "CyberNuns": {
+        "name": "The CyberNuns",
+        "description": "A benevolent religious group providing aid and sanctuary, often clashing with the Syndicate.",
+        "attitude": {
+            "Syndicate": -40,
+            "NeoPolice": 10
+        }
+    },
+    "NeoPolice": {
+        "name": "Neo-Police Department",
+        "description": "The city's law enforcement, often corrupt but necessary for maintaining order.",
+        "attitude": {
+            "Syndicate": -60,
+            "CyberNuns": 15
+        }
+    }
+}

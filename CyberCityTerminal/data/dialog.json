@@ -1,0 +1,22 @@
+{
+    "greeting_downtown": [
+        "Hey, choomba. Welcome to the concrete jungle.",
+        "Another day in Cyber City. Stay sharp."
+    ],
+    "greeting_uptown": [
+        "Quiet up here. Good place to lay low.",
+        "Mind your own business, corpo."
+    ],
+    "greeting_industrial": [
+        "Watch your back in the industrial district.",
+        "Smells like ozone and desperation."
+    ],
+    "quest_giver_intro": [
+        "Listen up, I got a job for you.",
+        "Need someone with your skills."
+    ],
+    "quest_complete": [
+        "You did it. Here's your cut.",
+        "Nice work. The client is satisfied."
+    ]
+}

@@ -1,0 +1,42 @@
+{
+    "medkit": {
+        "name": "Medkit",
+        "description": "Heals you for a moderate amount.",
+        "type": "consumable",
+        "effect": {
+            "heal": 30
+        }
+    },
+    "data_chip": {
+        "name": "Data Chip",
+        "description": "Contains valuable information.",
+        "type": "quest_item"
+    },
+    "cyber_stim": {
+        "name": "Cyber Stim",
+        "description": "Temporarily boosts your combat abilities.",
+        "type": "consumable",
+        "effect": {
+            "damage_boost": 10,
+            "duration": 3
+        }
+    },
+    "credits": {
+        "name": "Credits",
+        "description": "Standard currency in Cyber City.",
+        "type": "currency"
+    },
+    "sensitive_package": {
+        "name": "Sensitive Package",
+        "description": "A discreet package for a contact.",
+        "type": "quest_item"
+    },
+    "energy_drink": {
+        "name": "Energy Drink",
+        "description": "Gives you a small burst of energy.",
+        "type": "consumable",
+        "effect": {
+            "heal": 10
+        }
+    }
+}

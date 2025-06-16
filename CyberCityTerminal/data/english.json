@@ -1,0 +1,15 @@
+{
+  "welcome_message": "Welcome to Cyber City Terminal!",
+  "quit_instructions": "Type 'quit' to exit.",
+  "starting_new_game": "Starting a new game...",
+  "location_label": "Location:",
+  "exits_label": "Exits:",
+  "language_set_to_russian": "Language set to Russian.",
+  "language_set_to": "Language set to {}.",
+  "Downtown Cyber City": "Downtown Cyber City",
+  "A bustling area with neon lights and towering skyscrapers.": "A bustling area with neon lights and towering skyscrapers.",
+  "Another day in Cyber City. Stay sharp.": "Another day in Cyber City. Stay sharp.",
+  "Uptown Apartments": "Uptown Apartments",
+  "Residential area, quieter than downtown.": "Residential area, quieter than downtown.",
+  "Quiet up here. Good place to lay low.": "Quiet up here. Good place to lay low."
+}
