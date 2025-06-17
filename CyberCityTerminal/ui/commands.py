@@ -12,7 +12,7 @@ def process_command(command, player, items_data, quest_manager, attempt_hack_fun
     if action == "quit":
         return False, lang_manager.get_string("exiting_game") # Use lang_manager
     elif action == "status":
-        print_message(player, lang_manager) # Pass lang_manager
+        print_message(str(player), lang_manager) # Pass string representation of player
         return True, None # No additional message needed
     elif action == "inventory":
         player.list_inventory(lang_manager) # Pass lang_manager
