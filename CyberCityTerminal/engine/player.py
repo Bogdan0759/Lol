@@ -25,12 +25,13 @@ class Player:
         else:
             print(f"{item} not found in inventory.")
 
-    def list_inventory(self):
+    def list_inventory(self, lang_manager=None):
         if not self.inventory:
-            print("Inventory is empty.")
+            print(lang_manager.get_string("inventory_empty") if lang_manager else "Inventory is empty.")
         else:
-            print("Inventory:")
+            print(lang_manager.get_string("inventory_label") if lang_manager else "Inventory:")
             for item in self.inventory:
+                # Assuming item has a __str__ method or similar for display
                 print(f"- {item}")
 
     def visit_location(self, location_id):
